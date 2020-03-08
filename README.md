@@ -26,3 +26,6 @@ DB
 - MYSQL => absolutely
 - POSTGRES
 
+ORM
+- Hibernate framework
+
