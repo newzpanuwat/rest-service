@@ -1,6 +1,7 @@
-# rest-service
+# JAVA Web framework
 
-JAVA Web framework
+Spring Framework
+
 
 - Authenication => OAuth2
 - Authorize => call spring security https://www.baeldung.com/role-and-privilege-for-spring-security-registration
