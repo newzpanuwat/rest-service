@@ -6,9 +6,9 @@ JAVA Web framework
 - Authorize => call spring security https://www.baeldung.com/role-and-privilege-for-spring-security-registration
 
 Test
-- Unit test => JUnit
-- Automated test => JSpringBot
-
+- Unit test => JUnit https://junit.org/junit5/
+- Automated test => JSpringBot, Selenide(https://selenide.org/quick-start.html)
+ 
 Deployment
 - .jar deploy with docker
 - Cloud services
